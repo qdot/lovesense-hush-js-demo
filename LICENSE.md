@@ -1,25 +1,3 @@
-# Lovesense Hush JS Demo
-
-Quick demo of Lovesense Buttplug control using WebBluetooth on Chrome.
-Requires Chrome 56 with Experimental Web Extensions turned on. Only
-works on mac/linux currently.
-
-Also, expect things to be kinda slow. Each message takes like,
-75-100ms roundtrip, and are queued. So things may lag some.
-
-## Disclaimer
-
-The Lovesense project is in no way affiliated with Lovense or any of
-its partners. The documentation and libraries here have been produced
-via clean room reverse engineering methods, and are provided with no
-guarantees, as outlined by the license agreement. Usage of these
-libraries and information is in no way condoned by Lovense and may
-void the warranty of your toy.
-
-## License
-
-tl;dr: BSD 3-Clause License
-
 Copyright (c) 2016, Metafetish Project
 All rights reserved.
 
